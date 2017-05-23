@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Coursework3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Coursework3_jar</output-path>
+    <root id="archive" name="Coursework3.jar">
+      <element id="module-output" name="CharacterRecognition" />
+    </root>
+  </artifact>
+</component>
